@@ -1,3 +1,3 @@
 # Estudo TanStack Query
 
-<h3>React, NextJS </h3>
+<h3>React, NextJS, TailWindCSS </h3>
